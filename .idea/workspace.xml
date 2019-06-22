@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e13b8cf8-4f07-40c7-863b-e8427cd89bf0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/2016.html" beforeDir="false" afterPath="$PROJECT_DIR$/2016.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017.html" beforeDir="false" afterPath="$PROJECT_DIR$/2017.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery-assets/images/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-assets/images/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery-assets/images/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-assets/images/10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery-assets/images/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-assets/images/11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery-assets/images/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-assets/images/12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery-assets/images/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-assets/images/13.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery-assets/images/14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-assets/images/14.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery-assets/images/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-assets/images/15.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery-assets/images/16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-assets/images/16.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery-assets/images/17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-assets/images/17.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery-assets/images/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-assets/images/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery-assets/images/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-assets/images/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery-assets/images/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-assets/images/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery-assets/images/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-assets/images/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery-assets/images/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-assets/images/6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery-assets/images/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-assets/images/7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery-assets/images/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-assets/images/8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery-assets/images/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-assets/images/9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/custom_2017.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom_2017.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="332" column="8" selection-start-line="332" selection-start-column="8" selection-end-line="332" selection-end-column="8" />
+            <state relative-caret-position="759">
+              <caret line="414" lean-forward="true" selection-start-line="414" selection-end-line="414" />
             </state>
           </provider>
         </entry>
@@ -111,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/custom_2017.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="713">
-              <caret line="127" selection-start-line="127" selection-end-line="127" />
+            <state relative-caret-position="759">
+              <caret line="132" column="31" lean-forward="true" selection-start-line="132" selection-start-column="31" selection-end-line="132" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -162,9 +141,9 @@
       <find>sponsors</find>
       <find>info@hacknehs.com</find>
       <find>2019 site</find>
-      <find>orange</find>
       <find>2019</find>
       <find>guests</find>
+      <find>orange</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -177,9 +156,9 @@
         <option value="$PROJECT_DIR$/2016.html" />
         <option value="$PROJECT_DIR$/assets/css/custom.css" />
         <option value="$PROJECT_DIR$/2017.html" />
-        <option value="$PROJECT_DIR$/assets/css/custom_2017.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/gallery.html" />
+        <option value="$PROJECT_DIR$/assets/css/custom_2017.css" />
       </list>
     </option>
   </component>
@@ -254,12 +233,12 @@
       <option name="presentableId" value="Default" />
       <updated>1561089782066</updated>
       <workItem from="1561089783711" duration="3249000" />
-      <workItem from="1561094085545" duration="9696000" />
+      <workItem from="1561094085545" duration="9941000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12945000" />
+    <option name="totallyTimeSpent" value="13190000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
@@ -454,13 +433,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4731">
-          <caret line="210" column="22" selection-start-line="210" selection-start-column="22" selection-end-line="210" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2017.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="683">
@@ -468,13 +440,6 @@
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/custom_2017.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="127" selection-start-line="127" selection-end-line="127" />
         </state>
       </provider>
     </entry>
@@ -505,8 +470,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="332" column="8" selection-start-line="332" selection-start-column="8" selection-end-line="332" selection-end-column="8" />
+        <state relative-caret-position="759">
+          <caret line="414" lean-forward="true" selection-start-line="414" selection-end-line="414" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4731">
+          <caret line="210" column="22" selection-start-line="210" selection-start-column="22" selection-end-line="210" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/custom_2017.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="132" column="31" lean-forward="true" selection-start-line="132" selection-start-column="31" selection-end-line="132" selection-end-column="31" />
         </state>
       </provider>
     </entry>
