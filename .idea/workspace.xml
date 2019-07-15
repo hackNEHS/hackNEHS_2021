@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e13b8cf8-4f07-40c7-863b-e8427cd89bf0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -50,14 +51,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4565">
-              <caret line="184" column="30" selection-start-line="184" selection-start-column="30" selection-end-line="184" selection-end-column="30" />
+            <state relative-caret-position="-471">
+              <caret line="514" column="16" lean-forward="true" selection-start-line="514" selection-start-column="16" selection-end-line="514" selection-end-column="16" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#1;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#2;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#2;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#11762#11768#0" expanded="true" />
+                <element signature="e#11768#11774#0" expanded="true" />
+                <element signature="e#11774#11780#0" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -84,8 +88,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="266" column="19" lean-forward="true" selection-start-line="266" selection-start-column="19" selection-end-line="266" selection-end-column="19" />
+            <state relative-caret-position="196">
+              <caret line="157" column="21" selection-start-line="157" selection-start-column="21" selection-end-line="157" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -122,22 +126,17 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>css</find>
-      <find>edosz</find>
-      <find>when</find>
       <find>btn</find>
       <find>2017</find>
       <find>hacknehs</find>
       <find>more info</find>
       <find>info@hacknehs.com</find>
       <find>2019 site</find>
-      <find>2019</find>
       <find>guests</find>
       <find>saturday</find>
       <find>become a</find>
       <find>li</find>
       <find>&lt;li&gt;</find>
-      <find>text-orange</find>
       <find>&lt;li id=&quot;link&quot;&gt;</find>
       <find>team</find>
       <find>mentor</find>
@@ -152,9 +151,15 @@
       <find>#ff9800</find>
       <find>sponsors</find>
       <find>microsoft</find>
+      <find>HackNEHS</find>
+      <find>hot techno</find>
+      <find>text-orange</find>
+      <find>2019</find>
+      <find>christ</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;li&gt;</replace>
+      <replace>hackNEHS</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -174,10 +179,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="375" />
-    <option name="y" value="-9" />
-    <option name="width" value="1920" />
-    <option name="height" value="1065" />
+    <option name="x" value="640" />
+    <option name="y" value="-19" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -246,12 +251,12 @@
       <workItem from="1561089783711" duration="3249000" />
       <workItem from="1561094085545" duration="10502000" />
       <workItem from="1561264763436" duration="6688000" />
-      <workItem from="1563149324655" duration="1648000" />
+      <workItem from="1563149324655" duration="6271000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22087000" />
+    <option name="totallyTimeSpent" value="26710000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -261,7 +266,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -472,21 +477,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="266" column="19" lean-forward="true" selection-start-line="266" selection-start-column="19" selection-end-line="266" selection-end-column="19" />
+        <state relative-caret-position="196">
+          <caret line="157" column="21" selection-start-line="157" selection-start-column="21" selection-end-line="157" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4565">
-          <caret line="184" column="30" selection-start-line="184" selection-start-column="30" selection-end-line="184" selection-end-column="30" />
+        <state relative-caret-position="-471">
+          <caret line="514" column="16" lean-forward="true" selection-start-line="514" selection-start-column="16" selection-end-line="514" selection-end-column="16" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#1;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#2;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#2;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#11762#11768#0" expanded="true" />
+            <element signature="e#11768#11774#0" expanded="true" />
+            <element signature="e#11774#11780#0" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />

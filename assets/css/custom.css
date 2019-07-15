@@ -40,7 +40,7 @@ a {
 
 a:hover {
   color: #4899B1;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .section-container {
@@ -55,7 +55,11 @@ a:hover {
   color: #ff9800;
 }
 
-.text-orange:hover{
+.text-orange-title {
+  color: #ff9800;
+}
+
+.text-orange-title:hover{
   text-decoration: underline;
 }
 

@@ -1,4 +1,4 @@
-HackNEHS 2017 Website
+hackNEHS 2017 Website
 
 domain + hosting with Bluehost
 Use FileZilla or another FTP to push contents from this repo to bluehost cPanel
