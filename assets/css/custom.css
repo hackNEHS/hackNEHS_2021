@@ -40,7 +40,7 @@ a {
 
 a:hover {
   color: #4899B1;
-  text-decoration: underline;
+
 }
 
 .section-container {
@@ -223,11 +223,11 @@ nav {
 }
 
 .btn {
-  /*border-radius: 0;*/
 }
+
 .btn:hover{
-  color: black;
-  border-color: #4d4d4d;
+  color: white;
+  border-color: white;
 }
 
 .fab-btn-1 {
