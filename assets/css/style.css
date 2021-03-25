@@ -11,3 +11,12 @@ html {
 .schedule td {
   font-weight: bold;
 }
+
+@media only screen and (min-width: 768px) {
+  .center1{
+    margin-left: 25%;
+  }
+  .center2{
+    margin-left: 33%;
+  }
+}
