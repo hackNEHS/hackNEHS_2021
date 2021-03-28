@@ -23,3 +23,165 @@ html {
     margin-left: 16.5%;
   }
 }
+
+.speaker-container {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.speaker-card-left {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 32px;
+  width: 100%;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  margin-bottom: 32px;
+}
+
+.speaker-card-right {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 32px;
+  width: 100%;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  margin-bottom: 32px;
+}
+
+.speaker-image-holder{
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+
+.speaker-text-holder-left{
+  padding-left: 1rem;
+}
+
+.speaker-text-holder-right{
+  padding-right: 1rem;
+}
+
+.speaker-name{
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  font-weight: 600;
+}
+
+.speaker-description {
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+}
+
+.speaker-footer{
+  font-size: 12px;
+  line-height: 16px;
+  font-style: italic;
+  margin-top: 1rem;
+  text-align: center;
+}
+
+@media only screen and (min-width: 640px) {
+  .speaker-name{
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .speaker-description {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .speaker-footer{
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .speaker-container {
+    padding-left: 10rem;
+    padding-right: 10rem;
+  }
+
+  .speaker-panel-container{
+    flex-direction: column;
+  }
+
+}
+
+@media only screen and (min-width: 768px) {
+  .speaker-image-holder{
+    width: 66.66667%;
+  }
+  .speaker-name {
+    font-size: 24px;
+    line-height: 32px;
+  }
+  .speaker-description {
+    font-size: 18px;
+    line-height: 28px;
+  }
+
+  .speaker-container {
+    padding-left: 20rem;
+    padding-right: 20rem;
+  }
+
+}
+
+@media only screen and (min-width: 1024px) {
+  .speaker-description {
+    font-size: 18px;
+    line-height: 28px;
+  }
+
+  .speaker-description-wolfram {
+    font-size: 13px;
+    line-height: 20px;
+    text-align: center;
+  }
+
+  .speaker-footer {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+@media only screen and (min-width: 1280px) {
+  .speaker-card-left{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+
+  .speaker-card-right {
+    margin-left: auto;
+    margin-right: 0;
+    width: 66.66666667%;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+
+  .speaker-image-holder{
+    width: 66.6667%;
+  }
+
+  .speaker-text-holder-left{
+    padding-left: 4rem;
+  }
+
+  .speaker-text-holder-right{
+    padding-right: 4rem;
+  }
+
+}

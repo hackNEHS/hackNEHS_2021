@@ -1,0 +1,192 @@
+/* couldn't actuall import tailwind so just copy and pasting some classes */
+.mx-auto{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mx-0 {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.px-12{
+  padding-left: 48px;
+  padding-right: 48px;
+}
+
+.px-32{
+    padding-left: 20rem;
+    padding-right: 20rem;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.font-bold{
+  font-weight: 700;
+}
+
+.text-2xl{
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.text-5xl{
+  font-size: 3rem;
+  line-height: 1;
+}
+
+.mt-8{
+  margin-top: 2rem;
+}
+
+.mt-8{
+  margin-bottom: 2rem;
+}
+
+.text-gray-700{
+  --tw-text-opacity: 1;
+  color: rgba(55, 65, 81, var(--tw-text-opacity));
+}
+
+.bg-black{
+  background-color: rgba(55, 65, 81, 1);
+}
+
+.text-orange{
+  color: #FFAD33;
+}
+
+.w-full{
+  width: 100%;
+}
+
+.h-full {
+  height: 100%;
+}
+
+.w-2\/3{
+  width: 66.666667%;
+}
+
+.h-2\/3{
+  height: 66.666667%;
+}
+
+.w-1\/2{
+  width: 50%;
+}
+
+.h-1\/2{
+  height: 50%
+}
+
+.bg-white{
+  background-color: white;
+}
+
+.py-8{
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.px-8{
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.py-12{
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.px-12{
+  padding-left: 48px;
+  padding-right: 48px;
+}
+
+.object-center{
+  -o-object-position: center;
+  object-position: center;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+
+.justify-start{
+  justify-content: flex-start;
+}
+
+.flex-grow{
+  flex-grow: 1;
+}
+
+.pl-4{
+  padding-left: 1rem;
+}
+
+.pl-16{
+  padding-left: 4rem;
+}
+
+.pr-16{
+  padding-right: 4rem;
+}
+
+.font-semibold{
+  font-weight: 600;
+}
+
+.text-sm{
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+
+.text-base{
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.text-lg{
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.mt-4 {
+  margin-top: 1rem;
+}
+
+.text-xs{
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.bg-cover{
+  background-size: cover;
+}
+
+.italic{
+  font-style: italic;
+}
+
+.mr-0{
+  margin-right: 0px;
+}
+
+.ml-auto{
+  margin-left: auto;
+}
+
+.flex-row-reverse{
+    flex-direction: row-reverse;
+}
+
+.bg-orange{
+  background: #FFAD33;
+}
