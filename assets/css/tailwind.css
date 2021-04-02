@@ -167,6 +167,11 @@
   line-height: 16px;
 }
 
+.text-xxs{
+  font-size: 12px;
+  line-height: 12px;
+}
+
 .bg-cover{
   background-size: cover;
 }
